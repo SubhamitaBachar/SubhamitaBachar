@@ -1,7 +1,6 @@
-## Hi there 👋 I'm Subhamita Bachar
 
 <h1 align="center">Hi 👋, I'm Subhamita Bachar</h1>
-<h3 align="center">🧠 An Data Science Enthusiasts: Learning, Analyzing, Innovating."</h3>
+<h3 align="center">🧠 A Data Science Enthusiasts: Learning, Analyzing, Innovating data into art of possibilities."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamitabachar&label=Profile%20views&color=0e75b6&style=flat" alt="subhamitabachar" /> </p>
 
