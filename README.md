@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **projects of ML, Python, SQL, Tableau**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SubhamitaBachar/-dataset_vault](https://github.com/SubhamitaBachar/-dataset_vault)
-
 - 📫 How to reach me **subhamitabachar014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
