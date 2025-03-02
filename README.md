@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Subhamita Bachar</h1>
-<h3 align="center">🧠 A Data Science Enthusiasts: Learning, Analyzing, Innovating data into art of possibilities</h3>
+<h3 align="center">🧠 An Data Science Enthusiasts: Learning, Analyzing, Innovating."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamitabachar&label=Profile%20views&color=0e75b6&style=flat" alt="subhamitabachar" /> </p>
 
@@ -11,7 +10,7 @@
 - 👯 I’m looking to collaborate on **projects of ML, Python, SQL, Tableau**
 
 - 📫 How to reach me **subhamitabachar014@gmail.com**
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhamita bachar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhamita bachar" height="30" width="40" /></a>
