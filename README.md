@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **ML, Python, MySQL, Tableau, Power BI**
 
 - 👯 I’m looking to collaborate on **projects of ML, Python, SQL, Tableau**
+  
+- 👨‍💻 All of my projects are available at ML_Project_on_KNN and ML_Project_on_Regression
 
 - 📫 How to reach me **subhamitabachar014@gmail.com**
 
