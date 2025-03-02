@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects of ML, Python, SQL, Tableau**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SubhamitaBachar/ML_Project_on_KNN and https://github.com/SubhamitaBachar/ML_Project_on_Regression](https://github.com/SubhamitaBachar/ML_Project_on_KNN and https://github.com/SubhamitaBachar/ML_Project_on_Regression)
+- 👨‍💻 All of my projects are available at (https://github.com/SubhamitaBachar/ML_Project_on_KNN and https://github.com/SubhamitaBachar/ML_Project_on_Regression)
 
 - 📫 How to reach me **subhamitabachar014@gmail.com**
 
