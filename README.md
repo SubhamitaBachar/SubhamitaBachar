@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamitabachar&show_icons=true&locale=en" alt="subhamitabachar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamitabachar&" alt="subhamitabachar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=subhamitabachar&" alt="subhamitabachar" /></p>
